@@ -1,0 +1,30 @@
+/* css/style.css */
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .hero-section {
+    background-color: #e6f7ff;
+    min-height: 90vh;
+  }
+  
+  h1, h2 {
+    color: #003366;
+  }
+  
+  section img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .btn-primary {
+    background-color: #0066cc;
+    border-color: #0066cc;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0055aa;
+    border-color: #0055aa;
+  }
+  
